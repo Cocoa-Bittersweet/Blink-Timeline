@@ -1,1 +1,1 @@
-https://github.com/Cocoa-Bittersweet/Blink-Timeline/redirect.html
+https://Cocoa-Bittersweet.github.io/Blink-Timeline/redirect.html
